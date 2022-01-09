@@ -11,3 +11,9 @@ font-family: Verdana, Geneva, Tahoma, sans serif;
     
     
 }
+
+.link--cta {
+
+    font-size: 35px;
+    color: aquamarine;
+}
